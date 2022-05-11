@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run predict_page_v3.py
